@@ -6,7 +6,9 @@ Some other text added for illustrating diff.
 Adding a change to the Starter Web repo section.
 
 ## Introduction
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+
+Adding a bit more to the introduction.
 
 ## Purpose
 
