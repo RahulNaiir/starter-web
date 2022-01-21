@@ -3,6 +3,8 @@
 A Starter repo for demonstrating git and github functionality.
 Some other text added for illustrating diff.
 
+Adding a change to the Starter Web repo section.
+
 ## Introduction
 This repository is for showing how Git and GitHub work
 
