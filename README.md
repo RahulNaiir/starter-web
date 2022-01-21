@@ -15,6 +15,10 @@ Adding a bit more to the introduction.
 Sample website with plenty of files for demos
 Some lines added to demonstrate purpose
 
+Some meaning purpose.
+
 ## Deployment
+
+This is a simple web project.
 
 ## How to contribute
